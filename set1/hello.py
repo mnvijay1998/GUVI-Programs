@@ -1,2 +1,4 @@
 t=int(input())
-print("Hello"*t)
+l=["Hello"]*t 
+for i in l:
+    print(i)
