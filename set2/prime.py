@@ -5,7 +5,7 @@ for i in range(2,n):
 		f=-1
 		break
 		
-if fl==0:
+if fl==0 and n>1:
 	print("yes")
 else:
 	print("no")
