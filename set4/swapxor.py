@@ -1,4 +1,4 @@
-a,b=10,20
+a,b=map(int,input().split())
 a=a ^ b
 b=a ^ b
 a=a ^ b
