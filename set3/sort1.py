@@ -1,4 +1,4 @@
 n=int(input())
-l=[int(x) for x in input().split()]
-l.sort()
-print(*l)
+ll=[int(x) for x in input().split()]
+ll.sort()
+print(*ll)
