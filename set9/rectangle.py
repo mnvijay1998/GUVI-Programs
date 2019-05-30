@@ -1,2 +1,4 @@
 a,b=map(float,input().split())
-print(round((a*b),5))
+t=a*b
+print(format(t,'.5f'))
+#print("%0.5f"%t)
