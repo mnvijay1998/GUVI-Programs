@@ -5,5 +5,5 @@ for i in range(0,len(l),3):
 	if l[i+1]=="%":
 		print(a%b)
 	if l[i+1]=="/":
-		print(a/b)
+		print(a//b)
 	
