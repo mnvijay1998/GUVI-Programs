@@ -1,1 +1,2 @@
-print(input())
+nn=input()
+print(nn)
