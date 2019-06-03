@@ -1,2 +1,2 @@
-a,d,n=map(int,input().split())
-print(int((n/2)*(2*a+(n-1)*d)))
+aa,dd,nn=map(int,input().split())
+print(int((nn/2)*(2*aa+(nn-1)*dd)))
